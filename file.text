@@ -1,0 +1,5 @@
+src/app/
+├── not-found.tsx          ← ADD THIS (critical fix)
+├── page.tsx              (your homepage ✅)
+└── material-science/
+    └── page.tsx          (your notes ✅)
